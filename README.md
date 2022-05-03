@@ -1,10 +1,20 @@
 # Python 3
 
-* Repositório utilizado para armazenar arquivos de aulas e exercícios criados durante a realização dos cursos de Python 3 da plataforma Curso em Vídeo.
++ ### Repository used to store files of classes and exercises created during Python 3 courses on the Curso em Vídeo platform.
 
-  * Linguagem: Python 3
+> Status:
+> 
+>> 🌍 World 1 - Completed ✔️
+> 
+>>> 🌍 World 2 - Current 📖
+> 
+>> 🌍 World 3 - On hold 👀
 
-  * Plataforma: Curso em Vídeo.
+##
 
-  * IDE: Jupyter Notebook (anaconda3)
++ Language: Python 3
+
++ Platform: Curso em Vídeo.
+
++ IDE: Jupyter Notebook (anaconda3)
 
