@@ -1,20 +1,39 @@
-# Python 3
+<h1 align="center">
+  <a href="https://www.python.org">🐍 Python 3</a>
+</h1>
 
-+ ### Repository used to store files of classes and exercises created during Python 3 courses on the Curso em Vídeo platform.
+## Description
+<p align="center">📁 Repository used to store files of classes and exercises created during Python 3 courses on the Curso em Vídeo platform.</p>
 
-> Status:
-> 
->> 🌍 World 1 - Completed ✔️
-> 
->>> 🌍 World 2 - Current 📖
-> 
->> 🌍 World 3 - On hold 👀
+<h3 align="center"> Status: Studying </h3>
+
+<table align="center" border="2">
+  <tr>
+    <td>🌍 World 1</td>
+    <td>Completed ✅</td>
+  </tr>
+  <tr>
+    <td>🌍 World 2</td>
+    <td>Current 📖</td>
+  </tr>
+  <tr>
+    <td>🌍 World 3</td>
+    <td>On hold 👀</td>
+  </tr>
+</table>
 
 ##
-
-+ Language: Python 3
-
-+ Platform: Curso em Vídeo.
-
-+ IDE: Jupyter Notebook (anaconda3)
-
+<table align="center" border="2">
+    <tr>
+        <td>Language</td>
+        <td><a href="https://www.python.org">🐍 Python 3</a></td>
+    </tr>
+    <tr>
+        <td>Platform</td>
+        <td><a href="https://www.cursoemvideo.com">🎦 Curso em Vídeo</a></td>
+    </tr>
+    <tr>
+        <td>IDE</td>
+      <td> <img height=20 width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <a href="https://jupyter.org">Jupyter Notebook (anaconda3) </a></td>           
+    </tr>
+</table>
