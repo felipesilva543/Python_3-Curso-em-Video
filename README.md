@@ -14,11 +14,11 @@
   </tr>
   <tr>
     <td>🌍 World 2</td>
-    <td>Current 📖</td>
+    <td>Completed ✅</td>
   </tr>
   <tr>
     <td>🌍 World 3</td>
-    <td>On hold 👀</td>
+    <td>Current 📖</td>
   </tr>
 </table>
 
@@ -51,11 +51,11 @@
   </tr>
   <tr>
     <td>🌍 Mundo 2</td>
-    <td>Atual 📖</td>
+    <td>Completo ✅</td>
   </tr>
   <tr>
     <td>🌍 Mundo 3</td>
-    <td>Em Espera 👀</td>
+    <td>Atual 📖</td>
   </tr>
 </table>
 
