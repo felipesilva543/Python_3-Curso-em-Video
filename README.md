@@ -62,7 +62,7 @@
     <td>Completo ✅</td>
   </tr>
   <tr>
-    <td>🌍 World 4</td>
+    <td>🌍 Mundo 4</td>
     <td>Em Espera 📖</td>
   </tr>
 </table>
