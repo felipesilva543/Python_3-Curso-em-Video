@@ -5,7 +5,7 @@
 ## Description :eu:
 <p align="center">📁 Repository used to store files of classes and exercises created during Python 3 courses on the Curso em Vídeo platform.</p>
 
-<h3 align="center"> Status: Studying </h3>
+<h3 align="center"> Status: Waiting for the world 4.</h3>
 
 <table align="center" border="2">
   <tr>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>🌍 World 4</td>
-    <td>On Hold 📖</td>
+    <td>On Hold ⏳</td>
   </tr>
 </table>
 
@@ -46,7 +46,7 @@
 ## Descrição :brazil:
 <p align="center">📁 Repositório utilizado para armazenar arquivos de aulas e exercícios criados durante os cursos de Python 3 na plataforma Curso em Vídeo.</p>
 
-<h3 align="center"> Status: Estudando </h3>
+<h3 align="center"> Status: Esperando o mundo 4. </h3>
 
 <table align="center" border="2">
   <tr>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>🌍 Mundo 4</td>
-    <td>Em Espera 📖</td>
+    <td>Em Espera ⏳</td>
   </tr>
 </table>
 
